@@ -1,7 +1,7 @@
 
 
 
-()[https://hiszm.github.io/gallery/index.html]
+https://hiszm.github.io/gallery/index.html
  
 https://hiszm.github.io/gallery/add.html
  
